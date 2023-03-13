@@ -1,0 +1,11 @@
+{
+  "name": "delete-event-listener",
+  "version": "1.0.0",
+  "description": "Завершите код, чтобы прослушиватель событий `click` удалялся через 1.5 секунды.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Verbeko",
+  "license": "ISC"
+}
